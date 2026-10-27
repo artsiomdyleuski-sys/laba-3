@@ -1,4 +1,4 @@
-# Lab Assignment #2. Large-Scale OOP Project
+# Lab Assignment #3. Large-Scale OOP Project
 
 ## Domain: Social Network
 
